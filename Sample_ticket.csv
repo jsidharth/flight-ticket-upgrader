@@ -1,0 +1,6 @@
+﻿First_name,Last_name,PNR,Fare_class,Travel_date,Pax,Ticketing_date,Email,Mobile_phone,Booked_cabin
+Abhishek,Kumar,ABC123,F,2019-07-31,2,2019-05-21,abhishek@zzz.com,9876543210,Economy
+Monin,Sankar,PQ234,C,2019-08-01,2,2019-05-22,monin@zzz.com,9876543211,Economy
+Radhika,Suresh,ZZZ345,T,2019-08-02,4,2021-05-23,radhika@zzz,987654321,Business
+Kalyani,Ben,A1B2C3,M,2019-08-03,1,2019-05-24,kben@zzz.com,9876543213,Premium Economy
+Somnath,Batra,X1Y2Z4,Z,2019-08-04,3,2019-05-25,sbatra@zzz.com,9876543214,Economy
